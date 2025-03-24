@@ -68,13 +68,3 @@ To host this API online, you can:
 ## 👨‍💻 Author
 📌 Osman Sahin  
 🔗 GitHub: [github.com/Sabi1337](https://github.com/Sabi1337)
-
-## 🚀 Next Steps:
-- 📌 Add this `README.md` to your repo
-- 📌 Improve your Dockerfile with Multi-Stage Builds or CI/CD (optional)
-
-✅ Now your GitHub repository looks professional! 🎉  
-➡ Need any more optimizations? 😊🚀
-```
-
-Now the directory structure is displayed correctly in a code block. You can copy and paste this into your `README.md`. Let me know if there's anything else!
