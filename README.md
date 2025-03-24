@@ -16,7 +16,7 @@ flask-docker-api/
 │── requirements.txt     # Python dependencies
 │── Dockerfile           # Docker setup
 │── docker-compose.yml   # Docker Compose setup (optional)
-│── quotes.json     # JSON file with quotes
+│── data/quotes.json     # JSON file with quotes
 │── .gitignore           # Ignore unnecessary files
 └── README.md            # Project documentation
 🚀 Setup & Installation
