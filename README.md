@@ -1,7 +1,3 @@
-Ah, I see the mistake now! The markdown block for the project structure isn't properly formatted. The `Project Structure` section should be in a code block to display the directory structure properly. Let me fix that for you:
-
-Here is the corrected version:
-
 ```markdown
 # Flask-Docker API 🐳🚀
 
