@@ -60,6 +60,23 @@ docker-compose up --build
 | GET    | /quotes         | Returns all stored quotes                        |
 | POST   | /add_quote      | Adds a new quote (JSON: `{"quote": "Your quote here"}`) |
 
+# Examples:
+
+## Add_quote
+```bash
+$body = '{"quote":"Nicht alles, was zählt, kann gezählt werden."}'
+
+curl -Method POST http://localhost:5000/add_quote `
+  -ContentType "application/json; charset=utf-8" `
+  -Body $body
+```
+
+## Get_quote
+```bash
+curl -Method GET http://localhost:5000/quote
+```
+
+
 ## 📡 Deployment (Optional)
 To host this API online, you can:
 1️⃣ Deploy on Render or Railway  
